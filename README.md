@@ -4,7 +4,8 @@
 bilibili 下载up主所有视频，全1080p视频
 
 #### 打赏
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0716/143058_801d273f_1947212.jpeg "9edc00eb547738ada2b755532aff0f1.jpg")
+<image src = "https://images.gitee.com/uploads/images/2021/0716/143058_801d273f_1947212.jpeg" width = "30%">
+
 #### 安装教程
 
 1.  python 3.0以上的环境
