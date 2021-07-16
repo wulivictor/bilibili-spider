@@ -1,10 +1,7 @@
 import json
 import sys
-
 import requests
-import you_get
 from you_get import common as you_get
-
 
 def down(uid, page_size, page):
     url = "https://api.bilibili.com/x/space/arc/search?mid={0}&ps={1}&tid=0&pn={2}&keyword=&order=pubdate&jsonp=jsonp"
@@ -23,7 +20,6 @@ def down(uid, page_size, page):
         sys.argv = ['you-get', '-o', "D:/video", v_url]
         you_get.main()
     return count, list
-
 
 if __name__ == "__main__":
 
