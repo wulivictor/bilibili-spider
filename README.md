@@ -1,4 +1,4 @@
-# bilibili 视频下载
+# bilibili 视频批量下载
 
 #### 介绍
 bilibili 下载up主所有视频，全1080p视频
