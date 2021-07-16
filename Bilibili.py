@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     uid = input("请输入：")
     page = 1
-    page_size = 1
+    page_size = 30
     count, list = down(uid, page_size, page)
     for i in range(count - 1):
         page = page + 1
