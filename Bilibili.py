@@ -27,7 +27,7 @@ def down(uid, page_size, page):
 
 if __name__ == "__main__":
 
-    uid = input("请输入：")
+    uid = input("请输入up主的 uid：")
     page = 1
     page_size = 30
     count, list = down(uid, page_size, page)
