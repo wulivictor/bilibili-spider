@@ -3,7 +3,7 @@ import sys
 
 import requests
 import you_get
-from you_get import common as you_get  # 导入you-get库
+from you_get import common as you_get
 
 
 def down(uid, page_size, page):
